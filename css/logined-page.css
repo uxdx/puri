@@ -2,3 +2,7 @@
     margin-bottom: 10px;
     padding: 2px;
 }
+
+.notice__message {
+    font-size: 20px;
+}
